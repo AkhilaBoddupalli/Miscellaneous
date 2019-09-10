@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/mongodb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muzix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muzixassignment" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a41e3d5a-7882-4828-bff0-f888f326a3e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/muzixassignment/src/main/java/com/stackroute/muzixassignment/TrackDTO/Trackdto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/DockerFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/src/main/java/com/stackroute/muzix/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/stackroute/muzix/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/src/main/java/com/stackroute/muzix/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/stackroute/muzix/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/src/main/java/com/stackroute/muzix/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/stackroute/muzix/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/src/test/java/com/stackroute/controller/ControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/stackroute/controller/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muzix/src/main/java/com/stackroute/muzix/MuzixApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/muzix/src/main/java/com/stackroute/muzix/MuzixApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muzix/src/test/java/com/stackroute/service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/muzix/src/test/java/com/stackroute/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muzixassignment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/muzixassignment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muzixassignment/src/main/java/com/stackroute/muzixassignment/controller/TrackController.java" beforeDir="false" afterPath="$PROJECT_DIR$/muzixassignment/src/main/java/com/stackroute/muzixassignment/controller/TrackController.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/muzixassignment" />
+  </component>
+  <component name="ProjectId" id="1PX7UXnfe8P6mdKCUIRGEDhRqQY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41e3d5a-7882-4828-bff0-f888f326a3e8" name="Default Changelist" comment="" />
+      <created>1566008604030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566008604030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
